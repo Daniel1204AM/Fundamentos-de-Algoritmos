@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Timers;
 
 namespace Semana3
 {
@@ -10,7 +11,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio5();
+            ejercicio6();
             Console.ReadKey();
         }
 
@@ -69,6 +70,25 @@ namespace Semana3
             area = (bas * alt) / 2;
 
             Console.WriteLine("El área del triángulo es: " + area);
+        }
+
+        static void ejercicio6()
+        {
+            double n1, n2, n3, prom;
+
+            Console.WriteLine("Ingrese el primer número: ");
+            n1 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el segundo número: ");
+            n2 = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el tercer número: ");
+            n3 = Convert.ToDouble(Console.ReadLine());
+
+            prom = (n1 + n2 + n3) / 3*1.00;
+
+            Console.WriteLine("El promedio es: " + prom.ToString("F2"));
+
         }
     }
 }
