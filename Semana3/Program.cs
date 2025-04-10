@@ -11,7 +11,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio8();
+            ejercicio9();
             Console.ReadKey();
         }
 
@@ -85,7 +85,7 @@ namespace Semana3
             Console.WriteLine("Ingrese el tercer número: ");
             n3 = Convert.ToDouble(Console.ReadLine());
 
-            prom = (n1 + n2 + n3) / 3*1.00;
+            prom = (n1 + n2 + n3) / 3 * 1.00;
 
             Console.WriteLine("El promedio es: " + prom.ToString("F2"));
         }
@@ -114,6 +114,23 @@ namespace Semana3
 
             Console.WriteLine("La raíz cuadrada es: " + raiz);
             Console.WriteLine("La potencia es: " + pot);
+        } 
+
+        static void ejercicio9()
+        {
+            int a, b;
+
+            a = 10;
+            b = 20;
+
+            Console.WriteLine($"a = {a}, b = {b}\n");
+
+            Console.WriteLine($"¿a es igual a b? -> {a == b}");      // false
+            Console.WriteLine($"¿a es diferente de b? -> {a != b}"); // true
+            Console.WriteLine($"¿a es mayor que b? -> {a > b}");     // false
+            Console.WriteLine($"¿a es menor que b? -> {a < b}");     // true
+            Console.WriteLine($"¿a es mayor o igual a b? -> {a >= b}"); // false
+            Console.WriteLine($"¿a es menor o igual a b? -> {a <= b}"); // true
         }
     }
 }
