@@ -10,7 +10,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio4();
+            ejercicio3();
             Console.ReadKey();
         }
 
@@ -27,6 +27,15 @@ namespace Semana3
         static void ejercicio2()
         {
             Console.WriteLine("Daniel\n22\nIng. Sistemas");
+        }
+
+        static void ejercicio3()
+        {
+            String nombre;
+            Console.WriteLine("Ingresa tu nombre");
+            nombre = Console.ReadLine();
+
+            Console.WriteLine($"\"{nombre}\"");
         }
 
         static void ejercicio4()
@@ -46,5 +55,6 @@ namespace Semana3
             Console.WriteLine("La división es: " + (num1 / num2));
             Console.WriteLine("El residuo es: " + (num1 % num2));
         }
+
     }
 }
