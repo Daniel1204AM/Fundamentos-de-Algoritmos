@@ -1,0 +1,7 @@
+D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 03 - PRACTICA\Fundamentos de Algoritmos\Semana3\bin\Debug\Semana3.exe.config
+D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 03 - PRACTICA\Fundamentos de Algoritmos\Semana3\bin\Debug\Semana3.exe
+D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 03 - PRACTICA\Fundamentos de Algoritmos\Semana3\bin\Debug\Semana3.pdb
+D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 03 - PRACTICA\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.csproj.AssemblyReference.cache
+D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 03 - PRACTICA\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
+D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 03 - PRACTICA\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.exe
+D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 03 - PRACTICA\Fundamentos de Algoritmos\Semana3\obj\Debug\Semana3.pdb
