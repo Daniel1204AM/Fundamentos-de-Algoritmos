@@ -11,7 +11,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio7();
+            ejercicio8();
             Console.ReadKey();
         }
 
@@ -100,6 +100,20 @@ namespace Semana3
             area = Math.PI * Math.Pow(radio, 2);
 
             Console.WriteLine("El área del círculo es: " + area);
+        }
+
+        static void ejercicio8()
+        {
+            double dec, raiz, pot;
+
+            Console.WriteLine("Ingrese un número decimal");
+            dec = Convert.ToDouble(Console.ReadLine());
+
+            raiz = Math.Sqrt(dec);
+            pot = Math.Pow(dec, 2);
+
+            Console.WriteLine("La raíz cuadrada es: " + raiz);
+            Console.WriteLine("La potencia es: " + pot);
         }
     }
 }
