@@ -11,7 +11,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio9();
+            ejercicio10();
             Console.ReadKey();
         }
 
@@ -131,6 +131,18 @@ namespace Semana3
             Console.WriteLine($"¿a es menor que b? -> {a < b}");     // true
             Console.WriteLine($"¿a es mayor o igual a b? -> {a >= b}"); // false
             Console.WriteLine($"¿a es menor o igual a b? -> {a <= b}"); // true
+        }
+
+        static void ejercicio10()
+
+        {
+            bool x = true;
+            bool y = false;
+
+            Console.WriteLine(x && y);
+            Console.WriteLine(x || y);
+            Console.WriteLine(!x);
+            Console.WriteLine(!y);
         }
     }
 }
