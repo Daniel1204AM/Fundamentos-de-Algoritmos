@@ -11,7 +11,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio6();
+            ejercicio7();
             Console.ReadKey();
         }
 
@@ -88,7 +88,18 @@ namespace Semana3
             prom = (n1 + n2 + n3) / 3*1.00;
 
             Console.WriteLine("El promedio es: " + prom.ToString("F2"));
+        }
 
+        static void ejercicio7()
+        {
+            double radio, area;
+
+            Console.WriteLine("Ingrese el radio del círculo: ");
+            radio = Convert.ToDouble(Console.ReadLine());
+
+            area = Math.PI * Math.Pow(radio, 2);
+
+            Console.WriteLine("El área del círculo es: " + area);
         }
     }
 }
