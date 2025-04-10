@@ -10,7 +10,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio3();
+            ejercicio5();
             Console.ReadKey();
         }
 
@@ -56,5 +56,19 @@ namespace Semana3
             Console.WriteLine("El residuo es: " + (num1 % num2));
         }
 
+        static void ejercicio5()
+        {
+            double bas, alt, area;
+
+            Console.WriteLine("Ingrese la base del triángulo: ");
+            bas = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Ingrese la altura del triángulo: ");
+            alt = Convert.ToDouble(Console.ReadLine());
+
+            area = (bas * alt) / 2;
+
+            Console.WriteLine("El área del triángulo es: " + area);
+        }
     }
 }
