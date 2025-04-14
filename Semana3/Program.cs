@@ -11,7 +11,7 @@ namespace Semana3
     {
         static void Main(string[] args)
         {
-            ejercicio10();
+            ejercicio7();
             Console.ReadKey();
         }
 
@@ -29,6 +29,7 @@ namespace Semana3
         {
             Console.WriteLine("Daniel\n22\nIng. Sistemas");
         }
+
 
         static void ejercicio3()
         {
@@ -77,13 +78,13 @@ namespace Semana3
             double n1, n2, n3, prom;
 
             Console.WriteLine("Ingrese el primer número: ");
-            n1 = Convert.ToDouble(Console.ReadLine());
+            n1 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Ingrese el segundo número: ");
-            n2 = Convert.ToDouble(Console.ReadLine());
+            n2 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Ingrese el tercer número: ");
-            n3 = Convert.ToDouble(Console.ReadLine());
+            n3 = double.Parse(Console.ReadLine());
 
             prom = (n1 + n2 + n3) / 3 * 1.00;
 
@@ -99,7 +100,7 @@ namespace Semana3
 
             area = Math.PI * Math.Pow(radio, 2);
 
-            Console.WriteLine("El área del círculo es: " + area);
+            Console.WriteLine("El área del círculo es: " + Math.Round(area,2));
         }
 
         static void ejercicio8()
