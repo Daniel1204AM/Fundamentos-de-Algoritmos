@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\Algoritmos\Practica\Fundamentos-de-Algoritmos\Semana08\bin\Debug\Semana08.exe.config
+C:\Users\UPN\Documents\Algoritmos\Practica\Fundamentos-de-Algoritmos\Semana08\bin\Debug\Semana08.exe
+C:\Users\UPN\Documents\Algoritmos\Practica\Fundamentos-de-Algoritmos\Semana08\bin\Debug\Semana08.pdb
+C:\Users\UPN\Documents\Algoritmos\Practica\Fundamentos-de-Algoritmos\Semana08\obj\Debug\Semana08.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\Algoritmos\Practica\Fundamentos-de-Algoritmos\Semana08\obj\Debug\Semana08.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\Algoritmos\Practica\Fundamentos-de-Algoritmos\Semana08\obj\Debug\Semana08.exe
+C:\Users\UPN\Documents\Algoritmos\Practica\Fundamentos-de-Algoritmos\Semana08\obj\Debug\Semana08.pdb
