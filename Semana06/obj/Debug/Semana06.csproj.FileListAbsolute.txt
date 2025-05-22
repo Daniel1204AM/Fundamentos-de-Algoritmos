@@ -5,3 +5,10 @@ C:\Users\UPN\Desktop\algortimos practica\Fundamentos-de-Algoritmos\Semana06\obj\
 C:\Users\UPN\Desktop\algortimos practica\Fundamentos-de-Algoritmos\Semana06\obj\Debug\Semana06.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\algortimos practica\Fundamentos-de-Algoritmos\Semana06\obj\Debug\Semana06.exe
 C:\Users\UPN\Desktop\algortimos practica\Fundamentos-de-Algoritmos\Semana06\obj\Debug\Semana06.pdb
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana06\bin\Debug\Semana06.exe.config
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana06\bin\Debug\Semana06.exe
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana06\bin\Debug\Semana06.pdb
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana06\obj\Debug\Semana06.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana06\obj\Debug\Semana06.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana06\obj\Debug\Semana06.exe
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana06\obj\Debug\Semana06.pdb

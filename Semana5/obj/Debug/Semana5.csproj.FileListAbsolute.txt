@@ -5,3 +5,10 @@ D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 
 D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 05 - PRACTICA\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.csproj.CoreCompileInputs.cache
 D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 05 - PRACTICA\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.exe
 D:\softd\Documents\UNIVERSIDAD\FUNDAMENTOS DE ALGORITMOS\APLICACIONES\C#\SEMANA 05 - PRACTICA\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.pdb
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana5\bin\Debug\Semana5.exe.config
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana5\bin\Debug\Semana5.exe
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana5\bin\Debug\Semana5.pdb
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.exe
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.pdb

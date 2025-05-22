@@ -1,0 +1,9 @@
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\bin\Debug\Semana09.exe
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\bin\Debug\Semana09.pdb
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\obj\Debug\Semana09.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\obj\Debug\Semana09.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\obj\Debug\Semana09.exe
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\obj\Debug\Semana09.pdb
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\bin\Debug\Biblioteca.dll
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\bin\Debug\Biblioteca.pdb
+C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana09\obj\Debug\Semana09.csproj.Up2Date
