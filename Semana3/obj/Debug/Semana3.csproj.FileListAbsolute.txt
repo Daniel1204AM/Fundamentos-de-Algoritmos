@@ -19,3 +19,10 @@ C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Se
 C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.exe
 C:\Users\UPN\Documents\Algoritmos\Semana09 Practica\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.pdb
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana3\bin\Debug\Semana3.exe.config
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana3\bin\Debug\Semana3.exe
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana3\bin\Debug\Semana3.pdb
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.exe
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana3\obj\Debug\Semana3.pdb

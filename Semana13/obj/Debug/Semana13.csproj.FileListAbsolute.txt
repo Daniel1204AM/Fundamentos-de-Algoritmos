@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana13\bin\Debug\Semana13.exe
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana13\bin\Debug\Semana13.pdb
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana13\obj\Debug\Semana13.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana13\obj\Debug\Semana13.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana13\obj\Debug\Semana13.exe
+C:\Users\UPN\Desktop\S13 ALGORITMOS\Fundamentos-de-Algoritmos\Semana13\obj\Debug\Semana13.pdb
