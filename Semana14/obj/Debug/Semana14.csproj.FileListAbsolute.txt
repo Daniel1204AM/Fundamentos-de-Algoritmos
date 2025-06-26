@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\FA S14\Fundamentos-de-Algoritmos\Semana14\bin\Debug\Semana14.exe.config
+C:\Users\UPN\Desktop\FA S14\Fundamentos-de-Algoritmos\Semana14\bin\Debug\Semana14.exe
+C:\Users\UPN\Desktop\FA S14\Fundamentos-de-Algoritmos\Semana14\bin\Debug\Semana14.pdb
+C:\Users\UPN\Desktop\FA S14\Fundamentos-de-Algoritmos\Semana14\obj\Debug\Semana14.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA S14\Fundamentos-de-Algoritmos\Semana14\obj\Debug\Semana14.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA S14\Fundamentos-de-Algoritmos\Semana14\obj\Debug\Semana14.exe
+C:\Users\UPN\Desktop\FA S14\Fundamentos-de-Algoritmos\Semana14\obj\Debug\Semana14.pdb
